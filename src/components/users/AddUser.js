@@ -30,11 +30,11 @@ const AddUser = () => {
     history.push("/");
   };
   return (
-    <div className="container">
+    <div className="container mt-4">
       <div className="w-75 mx-auto shadow p-5">
         <h2 className="text-center mb-4">Add new Student</h2>
 
-        <form onSubmit={e => onSubmit(e)}>
+        <form onSubmit={e => onSubmit(e)} >
           <div class="form-row" >
             <div class="form-group col-md-6">
               <label for="inputEmail4">Student's Name</label>

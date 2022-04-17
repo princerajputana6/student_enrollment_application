@@ -40,7 +40,7 @@ const EditUser = () => {
     setUser(result.data);
   };
   return (
-    <div className="container">
+    <div className="container mt-4">
       <div className="w-75 mx-auto shadow p-5">
         <h2 className="text-center mb-4">Edit Student Details</h2>
         <form onSubmit={e => onSubmit(e)}>
