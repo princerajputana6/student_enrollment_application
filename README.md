@@ -18,3 +18,8 @@ Features I added :
 3. You can Delete an Student 
 4. You can Edit details of Enrolled Student 
 5. Here i used a JSON server to store data if you want to see all data in a json Format you  can go to db.json in root directory.
+
+
+
+
+One  Sad😢😢  Thing This website is not Responsive
