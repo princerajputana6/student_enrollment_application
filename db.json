@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "sname": "Prince",
+      "fname": "Father",
+      "email": "princerajputana5@gmail.com",
+      "dateofbirth": "30 Aug 1999",
+      "address": "gurgaon phase 3",
+      "city": "gurgaon",
+      "state": "Gurgaon",
+      "pincode": "122002",
+      "phone": "918740863229",
+      "classoptted": "7th Class",
+      "dateenrolled": "12 Aug 1999",
+      "marks": "120/200",
+      "id": 1
+    },
+    {
+      "sname": "student 2",
+      "fname": "father 2",
+      "email": "princerajputana5@gmail.com",
+      "dateofbirth": "30 Aug 1999",
+      "address": "gurgaon phase 3",
+      "city": "gurgaon",
+      "state": "Delhi",
+      "pincode": "444444",
+      "phone": "8740863229",
+      "classoptted": "5th Class",
+      "dateenrolled": "",
+      "marks": "120/200",
+      "id": 2
+    }
+  ]
+}
